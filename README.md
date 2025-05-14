@@ -75,10 +75,10 @@ Open each Jupyter notebook and run the script in each cell to load, clean, analy
 Exploratory data analysis was performed on `weather_data1.csv` and `weather_data2.csv`' into a new csv called `weather_data.csv`. Univarate analysis showed temperature, minimum humidity and wind speed decreased over the years in Minas Gerais (MG). The highest recorded rainfall in MG was in 2006 with 6.67 inches.
 
 **explore_coffee.ipynb**
-Exploratory data analysis was conducted on the `coffee_output.csv` file for MG. Bearing trees and 60kgs bags of coff showed an increase over the years, whereas bearing hectares showed a decrease in production. Bearing trees had a positive correlation with 60kgs bag count, however bearing hectares had a negative correlation.
+Exploratory data analysis was conducted on the `coffee_output.csv` file for MG. Bearing trees and 60kgs bags of coffee showed an increase over the years, whereas bearing hectares showed a decrease in production. Bearing trees had a positive correlation with 60kgs bag count, however bearing hectares had a negative correlation.
 
 **analysis.ipynb**
-The `weather_data.csv` and `coffee_output.csv` files where merged on the `year` and `subdivision` columns to explore how weather patterns correlate with coffee harvest output. Bivariate analysis showed coffee production in MG was most influenced by wind speed average (R=0.92). To continue exploring the impacts of weather and coffee production data collection on precipitation, atmospheric pressure, coffee prices, deforestation, coffee crop pests population (i.e. beetles, leaf rust) may be considered.
+The `weather_data.csv` and `coffee_output.csv` files were merged on the `year` and `subdivision` columns to explore how weather patterns correlate with coffee harvest output. Bivariate analysis showed coffee production in MG was most influenced by wind speed average (R=0.92). To continue exploring the impacts of weather and coffee production, data collection on precipitation, atmospheric pressure, coffee prices, deforestation, coffee crop pests population (i.e. beetles, leaf rust) may be considered.
 
 ## Authors
 
