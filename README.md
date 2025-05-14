@@ -78,7 +78,11 @@ Exploratory data analysis was performed on `weather_data1.csv` and `weather_data
 Exploratory data analysis was conducted on the `coffee_output.csv` file for MG. Bearing trees and 60kgs bags of coffee showed an increase over the years, whereas bearing hectares showed a decrease in production. Bearing trees had a positive correlation with 60kgs bag count, however bearing hectares had a negative correlation.
 
 **analysis.ipynb**
+<<<<<<< HEAD
 The `weather_data.csv` and `coffee_output.csv` files where merged on the `year` and `subdivision` columns to explore how weather patterns correlate with coffee harvest output. Bivariate analysis showed coffee production in MG was most influenced by wind speed average (R=0.92). To continue exploring the impacts of weather and coffee production, data collection on precipitation, atmospheric pressure, coffee prices, deforestation, coffee crop pests population (i.e. beetles, leaf rust) may be considered.
+=======
+The `weather_data.csv` and `coffee_output.csv` files were merged on the `year` and `subdivision` columns to explore how weather patterns correlate with coffee harvest output. Bivariate analysis showed coffee production in MG was most influenced by wind speed average (R=0.92). To continue exploring the impacts of weather and coffee production, data collection on precipitation, atmospheric pressure, coffee prices, deforestation, coffee crop pests population (i.e. beetles, leaf rust) may be considered.
+>>>>>>> 0b7cab731193abc3c4d33294ad20e6140e61780f
 
 ## Authors
 
